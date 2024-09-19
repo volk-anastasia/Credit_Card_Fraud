@@ -66,4 +66,4 @@ Total metrics:
 
 ![image](pictures/dbscan.png)
 
-![image](pictures/decomp_plots.png)
+![image](pictures/pred_decomp_plots.png)
