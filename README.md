@@ -18,7 +18,7 @@ The features:
 
 Dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions (492 of 284807).
 
-![image](https://github.com/user-attachments/assets/c0ecfefd-a6d5-4cda-a323-2cdffe5854e2)
+![image](pictures\decomp_plots.png)
 
 
 ### Different models
@@ -31,7 +31,7 @@ Total metrics:
 |            Accuracy: | 0.98     |
 | Predicted anomalies: | 0.4266 % |
 
-![image](https://github.com/user-attachments/assets/5a59751e-65fe-4158-92b2-efa3583c5129)
+![image](pictures/forest.png)
 
 
 **`One-Class SVM`**
@@ -42,7 +42,7 @@ Total metrics:
 |            Accuracy: | 0.98     |
 | Predicted anomalies: | 0.4449 % |
 
-![image](https://github.com/user-attachments/assets/4968e6bb-419b-472b-ab23-01b82d1bed6c)
+![image](pictures/svm.png)
 
 
 **`Local Outlier Factor`**
@@ -53,7 +53,7 @@ Total metrics:
 |            Accuracy: | 0.98     |
 | Predicted anomalies: | 0.4252 % |
 
-![image](https://github.com/user-attachments/assets/718fb99b-243c-4c87-8efc-8f168c49af0c)
+![image](pictures/lof.png)
 
 
 **`DBSCAN`**
@@ -64,6 +64,6 @@ Total metrics:
 |            Accuracy: | 0.99     |
 | Predicted anomalies: | 0.2826 % |
 
-![image](https://github.com/user-attachments/assets/d221699c-ad61-47a3-8591-e838274defee)
+![image](pictures/dbscan.png)
 
-![image](https://github.com/user-attachments/assets/ae1cb804-71d8-4b83-83d3-d56e3be25793)
+![image](pictures/decomp_plots.png)
