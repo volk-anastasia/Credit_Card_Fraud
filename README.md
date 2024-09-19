@@ -18,7 +18,7 @@ The features:
 
 Dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions (492 of 284807).
 
-![image](pictures\decomp_plots.png)
+![image](pictures/decomp_plots.png)
 
 
 ### Different models
